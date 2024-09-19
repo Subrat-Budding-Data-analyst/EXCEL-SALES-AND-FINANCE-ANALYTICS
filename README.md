@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf
+    **1.** Create a _[customer performance report] (https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf)_
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/MARKET%20PERFORMANCE%20VS%20TARGET.pdf
 
