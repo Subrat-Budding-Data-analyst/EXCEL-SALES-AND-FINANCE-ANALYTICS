@@ -1,4 +1,4 @@
-# EXCEL-SALES-AND-FINANCE-ANALYTICS
+➡️ EXCEL-SALES-AND-FINANCE-ANALYTICS
 ## Sales Report :
 
 
@@ -20,6 +20,7 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/P%20%26%20L%20STATEMENT%20BY%20FISCAL%20YEAR.pdf)_
+
    **2.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/P%20%26%20L%20STATEMENT%20BY%20MONTHS.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
@@ -28,7 +29,8 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-## 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+## ♻️Key Insights:
+
 - [x]  Customer Net Sales Performance Report & Market Performance vs. Target Report to measure sales progress and help meet targets.
 - [x]  Highlighted the [Top 5 and Bottom 5 Products by quantity sold](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%20AND%20BOTTOM%20PRODUCTS%20-QTY.pdf)_, including newly launched products by AtliQ in 2021.
 - [x]  Generated a Gross Margin Percentage Report showcasing the company’s quarterly gross profit trends.
@@ -38,7 +40,8 @@
 - [x]  Identified the [Top 10 Products](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%2010%20PRODUCTS.pdf)_ with the highest percentage growth in net sales from 2021 to 2022.
 
  
-## Technical & Soft Skills:
+## ♻️Technical & Soft Skills:
+
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
@@ -46,7 +49,8 @@
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
+## ♻️Soft Skills:
+
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
