@@ -32,12 +32,12 @@
 ## ♻️Key Insights:
 
 - [x]  Customer Net Sales Performance Report & Market Performance vs. Target Report to measure sales progress and help meet targets.
-- [x]  Highlighted the [Top 5 and Bottom 5 Products by quantity sold](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%20AND%20BOTTOM%20PRODUCTS%20-QTY.pdf)_, including newly launched products by AtliQ in 2021.
+- [x]  Highlighted the [Top 5 and Bottom 5 Products by quantity sold](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%20AND%20BOTTOM%20PRODUCTS%20-QTY.pdf), including newly launched products by AtliQ in 2021.
 - [x]  Generated a Gross Margin Percentage Report showcasing the company’s quarterly gross profit trends.
-- [x]  Identified the [Top 5 Countries](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%205%20COUNTRIES.pdf)_ with the largest sales contributions in 2021.
-- [x]  Listed the Top 5 Products launched in 2021.
+- [x]  Identified the [Top 5 Countries](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%205%20COUNTRIES.pdf) with the largest sales contributions in 2021.
+- [x]  Listed the [Top New Products](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/NEW%20PRODUCTS-2021.pdf) launched in 2021.
 - [x]  Developed a Division Level Report comparing sales performance between 2020 and 2021.
-- [x]  Identified the [Top 10 Products](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%2010%20PRODUCTS.pdf)_ with the highest percentage growth in net sales from 2021 to 2022.
+- [x]  Identified the [Top 10 Products](https://github.com/Subrat-Budding-Data-analyst/EXCEL-SALES-AND-FINANCE-ANALYTICS/blob/main/TOP%2010%20PRODUCTS.pdf) with the highest percentage growth in net sales from 2021 to 2022.
 
  
 ## ♻️Technical & Soft Skills:
